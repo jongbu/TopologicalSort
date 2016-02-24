@@ -1,7 +1,7 @@
 # TopologicalSort
 It is a Java program which performs a topological sorting on the graph using linked lists as the data structure.
 
-This was one of my projects at Queens College, CUNY for CS323 "Design and Analysis of Algorithms". The input and output files can be found in the projects directory as well. 
+This was one of my projects at Queens College, CUNY for CS323 "Design and Analysis of Algorithms" (Summer, 2015). The input and output files can be found in the projects directory as well. 
 
 Here is the Guidelines of this projects provided by the professor. 
 
